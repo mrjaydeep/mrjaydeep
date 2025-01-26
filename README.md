@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20in%20CSE-ITM%20University,%20Gwalior-3776AB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CGPA-7.46/10-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CGPA-7.51/10-blueviolet?style=for-the-badge">
 </p>
 
 ---
