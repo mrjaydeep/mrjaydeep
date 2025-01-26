@@ -41,3 +41,4 @@ Hi 👋, I'm **Jaydeep Vaishya**, a passionate AI/ML Engineer and Data Analyst.
 - [Energy Vision Using Weather](https://github.com/mrjaydeep/Energy-Vision/tree/main/Energy%20Vision%20Using%20Weather/Energy%20%2011)
 - [Emotion Detector](https://github.com/mrjaydeep/Emotion_Detector/tree/main/Emotion_detection-main)
 - [Start-Up Success Prediction](https://github.com/mrjaydeep/Start_up_success_prediction/tree/main/Start-Up-Success-Prediction-main/Start-Up%20Success%20Prediction)
+- [LLM Apps](https://github.com/mrjaydeep/LLM-Apps)
