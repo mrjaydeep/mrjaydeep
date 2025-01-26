@@ -1,87 +1,87 @@
----
+<h1 align="center">Hi 👋, I'm Jaydeep Vaishya</h1>
+<h3 align="center">🚀 Passionate AI & ML Enthusiast | Python Developer | Problem Solver</h3>
 
-### **README for GitHub Profile**
-```
-# Hi, I'm Jaydeep Vaishya! 👋
-
-🎓 **B.Tech in Computer Science** at ITM University, Gwalior (CGPA: 7.46/10)  
-👨‍💻 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Web Development**  
-🔭 Currently exploring cutting-edge AI trends and building impactful projects  
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech%20in%20CSE-ITM%20University,%20Gwalior-3776AB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CGPA-7.46/10-blueviolet?style=for-the-badge">
+</p>
 
 ---
 
-## 🔧 **Skills**
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge)
+### 🔧 **Skills**
+#### **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
-### **Frameworks & Libraries**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=
+#### **Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+</p>
 
-```markdown
-for-the-badge)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)  
-
-### **Database & Tools**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-
----
-
-## 🚀 **Projects**
-### 🌟 [Energy Vision](https://github.com/mrjaydeep/Energy-Vision)
-An ML-based platform to analyze environmental data and predict the suitability of renewable energy sources for different locations.  
-**Features**:
-- Built with **RandomForestClassifier** for accurate predictions.
-- Integrated **Flask** for user interaction.
-- Utilizes **PostgreSQL** for database management.  
-**Tech Stack**: Python, Flask, PostgreSQL, Random Forest.
+#### **Databases & Tools**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
 ---
 
-### 🌟 [Emotion Detector](https://github.com/mrjaydeep/Emotion_Detector)
-An AI-powered application that recognizes emotions from text or speech.  
-**Features**:
-- Leverages **Natural Language Processing** for sentiment analysis.
-- Optimized with **PyTorch** for training models.  
-**Tech Stack**: Python, PyTorch, NLP.
+### 🚀 **Projects**
+#### 🌟 [Energy Vision](https://github.com/mrjaydeep/Energy-Vision)
+<img align="right" src="https://img.icons8.com/fluency/96/renewable-energy.png" alt="Energy Vision" width="120">  
+- Predicts the most suitable renewable energy source for various locations.  
+- **Features**: Built with RandomForestClassifier, Flask-based web interface, and PostgreSQL database.  
+- **Tech Stack**: Python, Flask, PostgreSQL, Random Forest.  
 
 ---
 
-### 🌟 [Start-Up Success Prediction](https://github.com/mrjaydeep/Start_up_success_prediction)
-A machine learning project predicting the likelihood of a start-up's success based on key business parameters.  
-**Features**:
-- Provides data visualization and predictive analytics.
-- Implemented using **TensorFlow** and **Python libraries**.  
-**Tech Stack**: Python, TensorFlow.
+#### 🌟 [Emotion Detector](https://github.com/mrjaydeep/Emotion_Detector)
+<img align="right" src="https://img.icons8.com/fluency/96/emoticon.png" alt="Emotion Detector" width="120">  
+- Detects emotions from speech or text using NLP techniques.  
+- **Features**: Sentiment analysis optimized with PyTorch.  
+- **Tech Stack**: Python, PyTorch, NLP.  
 
 ---
 
-### 🌟 [LLM Apps](https://github.com/mrjaydeep/LLM-Apps)
-An experimental repository showcasing **Large Language Model (LLM)** integrations for various applications.  
-**Features**:
-- Examples of integrating OpenAI APIs and fine-tuning.  
-**Tech Stack**: Python, APIs.
+#### 🌟 [Start-Up Success Prediction](https://github.com/mrjaydeep/Start_up_success_prediction)
+<img align="right" src="https://img.icons8.com/color/96/startup.png" alt="Start-Up Success" width="120">  
+- Predicts the success probability of start-ups using machine learning.  
+- **Features**: Data visualization, predictive analytics using TensorFlow.  
+- **Tech Stack**: Python, TensorFlow.
 
 ---
 
-## 📈 **Contribution Highlights**
-![Jaydeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrjaydeep&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjaydeep&layout=compact&theme=radical)
+#### 🌟 [LLM Apps](https://github.com/mrjaydeep/LLM-Apps)
+<img align="right" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-ai-artificial-intelligence-flaticons-lineal-color-flat-icons-2.png" alt="LLM Apps" width="120">  
+- Demos and experimental integrations of Large Language Models (LLMs).  
+- **Features**: Fine-tuning OpenAI APIs for multiple applications.  
+- **Tech Stack**: Python, OpenAI API.
 
 ---
 
-## 📬 **Connect With Me**
-- 📧 **Email**: jaydeep.vaishya13@gmail.com  
-- 💼 [**LinkedIn**](https://linkedin.com/in/jaydeep-vaishya)  
-- 🐦 [**Twitter**](https://twitter.com/your_handle_here)  
+### 📈 **Contribution Highlights**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrjaydeep&show_icons=true&theme=radical&hide_title=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjaydeep&layout=compact&theme=radical">
+</p>
 
 ---
 
-**Let's build something amazing together! 🚀**
-```
+### 📬 **Connect With Me**
+<p align="center">
+  <a href="mailto:jaydeep.vaishya13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/jaydeep-vaishya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/your_handle_here"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
+
+---
+
+<h3 align="center">✨ Let's build something amazing together! ✨</h3>
