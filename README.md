@@ -1,7 +1,7 @@
 ### About Me:
 Hi 👋, I'm **Jaydeep Vaishya**, a passionate AI/ML Engineer and Data Analyst.
 
-- 🚀 Exploring the possibilities of AI and ML, particularly in computer vision and natural language processing.
+- 🚀 Exploring the possibilities of AI and ML, particularly in Machine Learning Engineer, Data Science, Computer Vision and Natural Language Processing.
 - 🔭 Currently working as an AI/ML Intern at **SETV Global**, building cutting-edge models.
 - 🌱 Expanding my knowledge in cloud technologies like AWS and containerization tools like Docker.
 - 💬 Always eager to collaborate on exciting projects and share knowledge.
