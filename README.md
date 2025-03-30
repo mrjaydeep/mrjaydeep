@@ -2,9 +2,10 @@
 Hi 👋, I'm **Jaydeep Vaishya**, a passionate AI/ML Engineer and Data Analyst.
 
 - 🚀 Exploring the possibilities of AI and ML, particularly in Machine Learning, Data Science, Computer Vision and Natural Language Processing.
-- 🔭 Previously worked as an **AI/ML Intern** at **SETV Global**, where I built cutting-edge models.
-- 🌱 Expanding my knowledge in cloud technologies like AWS and containerization tools like Docker.
-- 💬 Always eager to collaborate on exciting projects and share knowledge.
+- 🚀 Currently working as a Product Engineering Intern (AI/ML) at LiquidMind AI, building Multi-Modal RAG systems and optimizing AI models.
+- 🔭 Previously worked as an AI/ML Intern at SETV Global, where I contributed to cutting-edge AI/ML projects.
+- 🌱 Exploring advancements in cloud technologies like AWS and containerization tools like Docker.
+- 💬 Always eager to collaborate on innovative projects and share knowledge.
 - 📫 Reach me at **mrjaydeep13@gmail.com** or connect with me on [LinkedIn](http://www.linkedin.com/in/jaydeep-vaishya-883bb5224/).
 
 ---
