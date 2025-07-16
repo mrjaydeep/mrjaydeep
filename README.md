@@ -1,45 +1,100 @@
-### About Me:
-Hi 👋, I'm **Jaydeep Vaishya**, a passionate AI/ML Engineer and Data Analyst.
+<p align="center">
+  <a href="https://mrjaydeep.github.io">
+    <img src="https://media.licdn.com/dms/image/D4D03AQFqSGr4nWZAgQ/profile-displayphoto-shrink_800_800/0/1705249812444?e=2147483647&v=beta&t=u5VDoYxx0k8SO5UOyH4a7q_rdbPrc9Fxk_fhRmwGkUI" width="180" style="border-radius:50%">
+  </a>
+</p>
 
-- 🚀 Exploring the possibilities of AI and ML, particularly in Machine Learning, Data Science, Computer Vision and Natural Language Processing.
-- 🚀 Currently working as a Product Engineering Intern (AI/ML) at LiquidMind AI, building Multi-Modal RAG systems and optimizing AI models.
-- 🔭 Previously worked as an AI/ML Intern at SETV Global, where I contributed to cutting-edge AI/ML projects.
-- 🌱 Exploring advancements in cloud technologies like AWS and containerization tools like Docker.
-- 💬 Always eager to collaborate on innovative projects and share knowledge.
-- 📫 Reach me at **mrjaydeep13@gmail.com** or connect with me on [LinkedIn](http://www.linkedin.com/in/jaydeep-vaishya-883bb5224/).
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+  Hi, I'm Jaydeep Vaishya
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+</h1>
 
----
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+%7C+Data+Analyst+%7C+Kaggle+Expert;Building+LLM+Apps+%7C+Energy+AI+%7C+Computer+Vision+Projects;Open+to+internships+%26+full-time+roles!" alt="Typing SVG" />
+</h3>
 
-### 🛠 Tech Stack:
-#### **Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### **Data Science Tools:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-#### **Frameworks and Tools:**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrjaydeep&label=Profile%20views&color=0e75b6&style=flat" alt="mrjaydeep" />
+</p>
 
 ---
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrjaydeep&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjaydeep&layout=compact&theme=dark)
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
+- 🎓 B.Tech Computer Science @ **ITM University, Gwalior**
+- 🧠 Internships at **LiquidMind AI**, **SETV Global**, and **OYO**
+- 🤖 Currently working on **LLM Apps, GenAI, CV, RAG, YOLO**
+- 🏅 **Kaggle Notebooks Expert** (Top ~2%)
+- 💡 Passionate about **solving real-world problems with AI**
+- 📫 Reach me at **mrjaydeep13@gmail.com**
 
 ---
 
-### 🌟 Pinned Projects:
-- [Energy Vision Using Weather](https://github.com/mrjaydeep/Energy-Vision/tree/main/Energy%20Vision%20Using%20Weather/Energy%20%2011)
-- [Emotion Detector](https://github.com/mrjaydeep/Emotion_Detector/tree/main/Emotion_detection-main)
-- [Start-Up Success Prediction](https://github.com/mrjaydeep/Start_up_success_prediction/tree/main/Start-Up-Success-Prediction-main/Start-Up%20Success%20Prediction)
-- [LLM Apps](https://github.com/mrjaydeep/LLM-Apps)
+## 🌐 Connect With Me
+
+| LinkedIn | Kaggle | GitHub | Portfolio |
+|----------|--------|--------|-----------|
+| <a href="https://www.linkedin.com/in/jaydeep-vaishya-883bb5224/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40"/></a> | <a href="https://www.kaggle.com/jaydeepvaishya" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="55"/></a> | <a href="https://github.com/mrjaydeep" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/></a> | <a href="https://mrjaydeep.github.io/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png" width="40"/></a> |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**: Python, SQL  
+**ML Tools**: Scikit-learn, PyTorch, TensorFlow, OpenCV, LangChain, RAG, YOLO  
+**Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+**Web**: Flask, FastAPI, HTML/CSS  
+**Cloud/Tools**: AWS, Docker, Git, Colab, Jupyter, DBeaver  
+**Databases**: MySQL, PostgreSQL, Oracle
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjaydeep&layout=compact&theme=tokyonight" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=mrjaydeep&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrjaydeep&theme=algolia&title=Followers,Repositories,Commits,Stars,PullRequest" />
+</p>
+
+---
+
+## 🔥 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [LLM Apps](https://github.com/mrjaydeep/LLM-Apps) | Resume tracker, chatbot agents using Gemini, LangChain | Generative AI, LangChain, OpenAI, yfinance |
+| [Energy Vision](https://github.com/mrjaydeep/Energy-Vision) | Recommend best renewable source based on weather | Flask, RandomForest, ML |
+| [Start-Up Success Prediction](https://github.com/mrjaydeep/Start_up_success_prediction) | Predict start-up success using NLP analysis | ML, NLP, Flask |
+
+---
+
+## 🎖️ Certifications & Achievements
+
+- 🧠 **IIT Kharagpur - AI4ICPS Cohort**
+- 🏅 **Kaggle Notebooks Expert** (Top 1.3k / 51k)
+- 💼 Interned at **OYO**, **LiquidMind AI**, **SETV Global**
+
+---
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
