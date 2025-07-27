@@ -35,8 +35,8 @@
 
 ## 🌐 Connect With Me
 
-| LinkedIn | Kaggle | GitHub | Portfolio |
-|----------|--------|--------|-----------|
+| LinkedIn | Kaggle | GitHub |
+|----------|--------|--------|
 | <a href="https://www.linkedin.com/in/jaydeep-vaishya-883bb5224/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40"/></a> | <a href="https://www.kaggle.com/jaydeepvaishya" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="55"/></a> | <a href="https://github.com/mrjaydeep" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/></a> | <a href="https://mrjaydeep.github.io/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png" width="40"/></a> |
 
 ---
