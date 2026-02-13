@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+%7C+Data+Analyst+%7C+Kaggle+Expert;Building+LLM+Apps+%7C+Energy+AI+%7C+Computer+Vision+Projects;Open+to+internships+%26+full-time+roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+%7C+Data+Scientist+%7C+Kaggle+Expert;Building+LLM+Apps+%7C+Energy+AI+%7C+Computer+Vision+Projects;Open+to+full-time+roles!" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -82,7 +82,7 @@
 ## 🎖️ Certifications & Achievements
 
 - 🧠 **IIT Kharagpur - AI4ICPS Cohort**
-- 🏅 **Kaggle Notebooks Expert** (Top 1.3k / 51k)
+- 🏅 **Kaggle Notebooks Expert** (Top 908 / 51k)
 - 💼 Interned at **OYO**, **LiquidMind AI**, **SETV Global**
 
 ---
