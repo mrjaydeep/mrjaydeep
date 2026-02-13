@@ -25,7 +25,8 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 - 🎓 B.Tech Computer Science @ **ITM University, Gwalior**
-- 🧠 Internships at **LiquidMind AI**, **SETV Global**, and **OYO**
+- 🧠 Internships at **I2V Systems**, **LiquidMind AI**, **SETV Global**, and **OYO**
+- 💼 1.1 Years of Hands-on Industry Experience
 - 🤖 Currently working on **LLM Apps, GenAI, CV, RAG, YOLO**
 - 🏅 **Kaggle Notebooks Expert** (Top ~2%)
 - 💡 Passionate about **solving real-world problems with AI**
