@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+%7C+Data+Scientist+%7C+Kaggle+Expert;Building+LLM+Apps+%7C+Energy+AI+%7C+Computer+Vision+Projects;Open+to+full-time+roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+AI+%26+ML+Technical+Lead;Building+SaaS+Platforms+%7C+LLM+Apps+%7C+Computer+Vision;CTO+%40+Midnight+Mango+%7C+Founder+%40+TradeIntel+AI" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -24,32 +24,32 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-- 🎓 B.Tech Computer Science @ **ITM University, Gwalior**
-- 🧠 Internships at **I2V Systems**, **LiquidMind AI**, **SETV Global**, and **OYO**
-- 💼 1.1 Years of Hands-on Industry Experience
-- 🤖 Currently working on **LLM Apps, GenAI, CV, RAG, YOLO**
-- 🏅 **Kaggle Notebooks Expert** (Top ~2%)
-- 💡 Passionate about **solving real-world problems with AI**
+- 💼 **CTO @ Midnight Mango** — solely architected and shipped **SourApple**, an enterprise-grade Instagram analytics SaaS platform, from concept to production
+- 🚀 Founder of **[TradeIntel AI](https://tradeintelai.in)** — a live AI platform for the Indian stock market
+- 🎓 B.Tech Computer Science (Data Science & ML) @ **ITM University, Gwalior**
+- 🧑‍💻 Full-stack engineer (Node.js, Express, React) with a strong AI/ML & Computer Vision background (PyTorch, LangChain, RAG)
+- 🏅 **Kaggle Notebooks Expert** (Top ~2%, 11 medals)
+- 📍 Based in Delhi, India
 - 📫 Reach me at **mrjaydeep13@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
-| LinkedIn | Kaggle | GitHub |
-|----------|--------|--------|
+| LinkedIn | Kaggle | GitHub | Portfolio |
+|----------|--------|--------|-----------|
 | <a href="https://www.linkedin.com/in/jaydeep-vaishya-883bb5224/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40"/></a> | <a href="https://www.kaggle.com/jaydeepvaishya" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="55"/></a> | <a href="https://github.com/mrjaydeep" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/></a> | <a href="https://mrjaydeep.github.io/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png" width="40"/></a> |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, SQL  
-**ML Tools**: Scikit-learn, PyTorch, TensorFlow, OpenCV, LangChain, RAG, YOLO  
-**Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
-**Web**: Flask, FastAPI, HTML/CSS  
-**Cloud/Tools**: AWS, Docker, Git, Colab, Jupyter, DBeaver  
-**Databases**: MySQL, PostgreSQL, Oracle
+**Languages**: JavaScript, Python, SQL
+**Backend & Infrastructure**: Node.js, Express.js, REST APIs, Docker, Nginx, AWS EC2, Render, CI/CD, JWT Auth
+**Frontend**: React (incl. React 19), Vite, Responsive Dashboard Design, Real-Time Data Visualization
+**AI / ML**: PyTorch, TensorFlow, LangChain, OpenAI API, RAG, LLM Fine-Tuning, Computer Vision (YOLO, OpenCV, CNNs), NLP, Agentic AI, XAI
+**Databases**: PostgreSQL, MySQL, FAISS, Chroma (Vector DBs)
+**Tools & Platforms**: Git/GitHub, Meta Ads Manager, Power BI, Excel, Jupyter Notebook, Postman
 
 ---
 
@@ -70,10 +70,25 @@
 
 ---
 
+## 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| Chief Technology Officer | Midnight Mango | Mar 2026 – Present |
+| Assistant Developer | IGCSM | May 2026 – Present |
+| Freelance Web Developer | Ghotra Palace | Jul 2026 – Present |
+| Computer Vision Engineer Intern | i2v Systems | Aug 2025 – Jan 2026 |
+| Product Engineering Intern (AI/ML) | LiquidMind AI | Mar 2025 – May 2025 |
+| AI/ML Engineer Intern | SETV Global | Nov 2024 – Jan 2025 |
+
+---
+
 ## 🔥 Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [SourApple](https://sourapple.in) | Instagram Campaign Intelligence & Analytics platform automating influencer tracking, ROI measurement, and real-time reporting | Node.js, Express, React 19, Docker, Nginx |
+| [TradeIntel AI](https://tradeintelai.in) | Live AI platform delivering real-time analysis and skill-building tools for Indian stock market investors | LLM Pipelines, Real-Time Data, Dashboard |
 | [LLM Apps](https://github.com/mrjaydeep/LLM-Apps) | Resume tracker, chatbot agents using Gemini, LangChain | Generative AI, LangChain, OpenAI, yfinance |
 | [Energy Vision](https://github.com/mrjaydeep/Energy-Vision) | Recommend best renewable source based on weather | Flask, RandomForest, ML |
 | [Start-Up Success Prediction](https://github.com/mrjaydeep/Start_up_success_prediction) | Predict start-up success using NLP analysis | ML, NLP, Flask |
@@ -82,9 +97,9 @@
 
 ## 🎖️ Certifications & Achievements
 
-- 🧠 **IIT Kharagpur - AI4ICPS Cohort**
-- 🏅 **Kaggle Notebooks Expert** (Top 908 / 51k)
-- 💼 Interned at **OYO**, **LiquidMind AI**, **SETV Global**
+- 🥇 **1st Place, IIIT Gwalior** (Apr 2025) — presented TradeIntel AI, awarded for innovation in AI-powered financial tools for the Indian stock market
+- 🧠 **IIT Kharagpur — AI4ICPS Hub** (with TCS iON) — Hands-on Approach to AI for Real-World Applications
+- 🏅 **Kaggle Notebooks Expert** — Top 2% globally, 11 medals, best rank 908 / 51k
 
 ---
 
