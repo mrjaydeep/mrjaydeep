@@ -75,8 +75,8 @@
 | Role | Company | Duration |
 |------|---------|----------|
 | Data Scientist(Founding Engineer) | Midnight Mango | Mar 2026 – Present |
-| Assistant Developer | IGCSM | May 2026 – Present |
-| Freelance Web Developer | Ghotra Palace | Jul 2026 – Present |
+| Assistant Developer | IGCSM | May 2026 – Oct 2026 |
+| Freelance Web Developer | Ghotra Palace | Jul 2026 – Sep 2026 |
 | Computer Vision Engineer Intern | i2v Systems | Aug 2025 – Jan 2026 |
 | Product Engineering Intern (AI/ML) | LiquidMind AI | Mar 2025 – May 2025 |
 | AI/ML Engineer Intern | SETV Global | Nov 2024 – Jan 2025 |
