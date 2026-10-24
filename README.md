@@ -24,7 +24,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-- 💼 **CTO @ Midnight Mango** — solely architected and shipped **SourApple**, an enterprise-grade Instagram analytics SaaS platform, from concept to production
+- 💼 **Data Scientist(Founding Engineer) @ Midnight Mango** — solely architected and shipped **SourApple**, an enterprise-grade Instagram analytics SaaS platform, from concept to production
 - 🚀 Founder of **[TradeIntel AI](https://tradeintelai.in)** — a live AI platform for the Indian stock market
 - 🎓 B.Tech Computer Science (Data Science & ML) @ **ITM University, Gwalior**
 - 🧑‍💻 Full-stack engineer (Node.js, Express, React) with a strong AI/ML & Computer Vision background (PyTorch, LangChain, RAG)
