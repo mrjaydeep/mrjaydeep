@@ -74,7 +74,7 @@
 
 | Role | Company | Duration |
 |------|---------|----------|
-| Chief Technology Officer | Midnight Mango | Mar 2026 – Present |
+| Data Scientist(Founding Engineer) | Midnight Mango | Mar 2026 – Present |
 | Assistant Developer | IGCSM | May 2026 – Present |
 | Freelance Web Developer | Ghotra Palace | Jul 2026 – Present |
 | Computer Vision Engineer Intern | i2v Systems | Aug 2025 – Jan 2026 |
