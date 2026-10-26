@@ -64,7 +64,7 @@ Real-time market data + LLM pipelines that turn raw numbers into plain-language 
 | 🎥 [**Offline YouTube Summarizer**](https://github.com/mrjaydeep/youtube-video-summarizer) | Downloads a video, transcribes it with **Whisper** and summarizes with **BART** — fully offline, no cloud APIs, with a web UI | Python, Whisper, Transformers, Flask, Docker |
 | 🤖 [**LLM Apps**](https://github.com/mrjaydeep/LLM-Apps) | Resume ATS tracker, financial-analysis agent and Q&A chatbots | LangChain, Gemini, OpenAI, yfinance |
 | 🦙 [**LangChain + Ollama**](https://github.com/mrjaydeep/Langchain-Ollama) | Local-LLM chatbot, RAG pipeline and API served with open-source models | LangChain, Ollama, RAG, FastAPI |
-| 😊 [**Emotion Detector**](https://github.com/mrjaydeep/Emotion_Detector) | Real-time facial emotion recognition on images and video frames | TensorFlow, OpenCV, Deep Learning |
+| 😊 [**Emotion Detector**](https://github.com/mrjaydeep/Emotion_Detector) | Facial emotion recognition across 7 classes, with face detection and a desktop app | TensorFlow, Keras CNN, OpenCV |
 | ⚡ [**Energy Vision**](https://github.com/mrjaydeep/Energy-Vision) | Recommends the best renewable energy type (solar, wind…) for a region from weather data, served as a web app | Random Forest, Flask |
 
 ---
