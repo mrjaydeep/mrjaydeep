@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+AI+%26+ML+Technical+Lead;Building+SaaS+Platforms+%7C+LLM+Apps+%7C+Computer+Vision;Data Scientist+%40+Midnight+Mango+%7C+Founder+%40+TradeIntel+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+AI+%26+ML+Technical+Lead;Building+SaaS+Platforms+%7C+LLM+Apps+%7C+Computer+Vision;Data-Scientist+%40+Midnight+Mango+%7C+Founder+%40+TradeIntel+AI" alt="Typing SVG" />
 </h3>
 
 <p align="center">
