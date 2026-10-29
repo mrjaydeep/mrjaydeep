@@ -85,8 +85,8 @@ Real-time market data + LLM pipelines that turn raw numbers into plain-language 
 
 | Role | Company | When |
 |---|---|---|
-| Data Scientist (Founding Engineer) | Midnight Mango | Mar 2026 – Present |
 | Founder | TradeIntel AI | Dec 2025 – Present |
+| Data Scientist (Founding Engineer) | Midnight Mango | Mar 2026 – OCT 2026 |
 | Assistant Developer (AI chatbots) | IGCSM | May 2026 – Oct 2026 |
 | Freelance Web Developer | Ghotra Palace | Jul 2026 – Sep 2026 |
 | Computer Vision Engineer Intern | i2v Systems | Aug 2025 – Jan 2026 |
